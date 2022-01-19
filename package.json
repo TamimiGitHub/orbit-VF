@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@orbit-love/activities": "^0.2.0",
     "@orbit-love/members": "^1.0.0",
     "alphabet": "^1.0.0",
     "dotenv": "^14.2.0",

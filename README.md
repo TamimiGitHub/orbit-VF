@@ -11,7 +11,7 @@
 
 ## How to run
 1. `npm i`
-1. `node users.js`
+1. Add users to Orbit: `node users.js` 
 
 ## Resources
 To find our what you can do with the Orbit Members Helper Library for Node.js checkout the docs
